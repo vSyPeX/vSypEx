@@ -1,4 +1,4 @@
-### Hi there 👋
+### im sypex 👋
 :eyes: :blue_heart: :yellow_heart:
 
 <!--
