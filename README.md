@@ -1,6 +1,6 @@
 ### im sypex 👋
 :eyes: :blue_heart: :yellow_heart:
-
+### 🌱 I’m currently learning ...
 <!--
 **vSyPeX/vSypEx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
